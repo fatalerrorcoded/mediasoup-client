@@ -1,3 +1,7 @@
+This is a fork of [mediasoup-client](https://www.npmjs.com/package/mediasoup-client), edited to work in a default preact-cli app.
+
+I realize there's probably a better way through editing the webpack config
+
 # mediasoup-client v3
 
 [![][npm-shield-mediasoup-client]][npm-mediasoup-client]

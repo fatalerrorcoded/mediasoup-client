@@ -1,10 +1,11 @@
 {
-  "name": "mediasoup-client",
+  "name": "@fatalerrorcoded/mediasoup-client",
   "version": "3.6.28",
   "description": "mediasoup client side JavaScript library",
   "contributors": [
     "Iñaki Baz Castillo <ibc@aliax.net> (https://inakibaz.me)",
-    "José Luis Millán <jmillan@aliax.net> (https://github.com/jmillan)"
+    "José Luis Millán <jmillan@aliax.net> (https://github.com/jmillan)",
+    "Martin Löffler <me@fatalerrorcoded.eu> (https://fatalerrorcoded.eu/)"
   ],
   "homepage": "https://mediasoup.org",
   "license": "ISC",
